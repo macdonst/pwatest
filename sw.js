@@ -19,6 +19,18 @@ importScripts('workbox-sw.prod.v1.0.0.js');
  */
 const fileManifest = [
   {
+    "url": "/pwatest/css/index.css",
+    "revision": "e46d9a1c456a9c913ca10f3c16d50000"
+  },
+  {
+    "url": "/pwatest/index.html",
+    "revision": "60ae3b7ac9477eede90f8d9d79e5f6c8"
+  },
+  {
+    "url": "/pwatest/js/index.js",
+    "revision": "b144c071205225b243caacc5b550f592"
+  },
+  {
     "url": "/pwatest/static/js/app.8eb574b1eddf08e17459.js",
     "revision": "c2cc10846649d9fb9cf1955cd714715f"
   },
@@ -29,6 +41,14 @@ const fileManifest = [
   {
     "url": "/pwatest/static/js/vendor.e6e92bc5030d29f8438a.js",
     "revision": "b9b695b4f0b7226e5efa089862f600eb"
+  },
+  {
+    "url": "/pwatest/sw.js",
+    "revision": "a16e600e92946ed099c45221bf970a97"
+  },
+  {
+    "url": "/pwatest/workbox-sw.prod.v1.0.0.js",
+    "revision": "9029a00430d1c6ccf363f3ad77c45d42"
   }
 ];
 
