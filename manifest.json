@@ -4,5 +4,13 @@
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#fff",
-  "description": "A blank PhoneGap template using Vue.js and Framework7."
+  "theme_color": "#2196F3",
+  "description": "A blank PhoneGap template using Vue.js and Framework7.",
+  "icons": [
+    {
+      "src": "img/logo.png",
+      "sizes": "170x200",
+      "type": "image/png"
+    }
+  ]
 }
