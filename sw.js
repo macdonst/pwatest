@@ -19,44 +19,16 @@ importScripts('workbox-sw.prod.v1.0.0.js');
  */
 const fileManifest = [
   {
-    "url": "/css/index.css",
-    "revision": "e46d9a1c456a9c913ca10f3c16d50000"
+    "url": "/static/js/app.8eb574b1eddf08e17459.js",
+    "revision": "c2cc10846649d9fb9cf1955cd714715f"
   },
   {
-    "url": "/index.html",
-    "revision": "568b60192edcf5cf4a4c207431f1f9a3"
-  },
-  {
-    "url": "/js/index.js",
-    "revision": "b144c071205225b243caacc5b550f592"
-  },
-  {
-    "url": "/static/js/app.08de98538f61f8348226.js",
-    "revision": "3b076fe9b50ab8786a64fbb9970a7be2"
-  },
-  {
-    "url": "/static/js/manifest.3b6013129e812f8202d1.js",
-    "revision": "c71086057748bdd7dcd3872e3984ed71"
+    "url": "/static/js/manifest.43a623dcad11e8732823.js",
+    "revision": "4557c52e01ff5777428213ad05a896c5"
   },
   {
     "url": "/static/js/vendor.e6e92bc5030d29f8438a.js",
     "revision": "b9b695b4f0b7226e5efa089862f600eb"
-  },
-  {
-    "url": "/static/sw.js",
-    "revision": "3a2218980a8629bf2e9d2baa70c69d44"
-  },
-  {
-    "url": "/static/workbox-sw.prod.v1.0.0.js",
-    "revision": "9029a00430d1c6ccf363f3ad77c45d42"
-  },
-  {
-    "url": "/sw.js",
-    "revision": "88f0b7952abdb0b4990af1db968f36d8"
-  },
-  {
-    "url": "/workbox-sw.prod.v1.0.0.js",
-    "revision": "9029a00430d1c6ccf363f3ad77c45d42"
   }
 ];
 
