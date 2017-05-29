@@ -44,7 +44,7 @@ const fileManifest = [
   },
   {
     "url": "/pwatest/sw.js",
-    "revision": "a16e600e92946ed099c45221bf970a97"
+    "revision": "2fae9099e35e614c21c55f98455e35ec"
   },
   {
     "url": "/pwatest/workbox-sw.prod.v1.0.0.js",

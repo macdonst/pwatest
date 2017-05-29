@@ -1,0 +1,8 @@
+{
+  "name": "Blank",
+  "short_name": "Blank",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fff",
+  "description": "A blank PhoneGap template using Vue.js and Framework7."
+}
