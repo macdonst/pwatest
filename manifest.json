@@ -8,8 +8,13 @@
   "description": "A blank PhoneGap template using Vue.js and Framework7.",
   "icons": [
     {
-      "src": "img/logo.png",
-      "sizes": "170x200",
+      "src": "img/logo-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "img/logo-512.png",
+      "sizes": "512x512",
       "type": "image/png"
     }
   ]
