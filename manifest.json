@@ -1,11 +1,11 @@
 {
-  "name": "Blank",
-  "short_name": "Blank",
+  "name": "PWA Test",
+  "short_name": "PWA Test",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#2196F3",
-  "description": "A blank PhoneGap template using Vue.js and Framework7.",
+  "description": "A PhoneGap PWA template using Vue.js and Framework7.",
   "icons": [
     {
       "src": "img/logo-192.png",
