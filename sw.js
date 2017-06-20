@@ -24,19 +24,19 @@ const fileManifest = [
   },
   {
     "url": "/pwatest/index.html",
-    "revision": "14de139fd943cf04c7d15917f2c8568a"
+    "revision": "5a9a2a068d0708e57568dd98d7d051c8"
   },
   {
     "url": "/pwatest/js/index.js",
     "revision": "b144c071205225b243caacc5b550f592"
   },
   {
-    "url": "/pwatest/static/js/app.f85802db0d92fa62e00c.js",
-    "revision": "d4cd8f540efb667a11909dc8c3385689"
+    "url": "/pwatest/static/js/app.0e4c5fe8bf5965cc246b.js",
+    "revision": "a03987e0c72e68011e9124c73c5c1a8d"
   },
   {
-    "url": "/pwatest/static/js/manifest.dd9d54cc83e1f5bdac0f.js",
-    "revision": "8146ae203d4739cddec54d98ab03f20b"
+    "url": "/pwatest/static/js/manifest.832915600580cbc7801a.js",
+    "revision": "7af64934ecdc0e16a8117cfa1baee0c0"
   },
   {
     "url": "/pwatest/static/js/vendor.482c14416185ffb0ddad.js",
@@ -52,7 +52,7 @@ const fileManifest = [
   },
   {
     "url": "/pwatest/sw.js",
-    "revision": "cb837d103b331c97338da2ecb14420ed"
+    "revision": "471433cd0d075928e40f897d49e12c47"
   },
   {
     "url": "/pwatest/workbox-sw.prod.v1.0.0.js",
