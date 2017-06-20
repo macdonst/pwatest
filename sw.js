@@ -19,44 +19,44 @@ importScripts('workbox-sw.prod.v1.0.0.js');
  */
 const fileManifest = [
   {
-    'url': '/pwatest/css/index.css',
-    'revision': 'e46d9a1c456a9c913ca10f3c16d50000'
+    "url": "/css/index.css",
+    "revision": "e46d9a1c456a9c913ca10f3c16d50000"
   },
   {
-    'url': '/pwatest/index.html',
-    'revision': 'a039b045fb97f7b2d6b7197127a40a49'
+    "url": "/index.html",
+    "revision": "4e928c559a3f84605c4c8052de8c1b49"
   },
   {
-    'url': '/pwatest/js/index.js',
-    'revision': 'b144c071205225b243caacc5b550f592'
+    "url": "/js/index.js",
+    "revision": "b144c071205225b243caacc5b550f592"
   },
   {
-    'url': '/pwatest/static/js/app.5adf1d171507b31405d2.js',
-    'revision': '07a13ed240d5bfa2e1450346b48aa896'
+    "url": "/static/js/app.b9724de07fbd3e7e845b.js",
+    "revision": "bf398f0bfbe3502fb28f2559cbe85c78"
   },
   {
-    'url': '/pwatest/static/js/manifest.ffb0cef8d7ed3584ee06.js',
-    'revision': '5a33d300fd8b7d3a7a2c397ed860824c'
+    "url": "/static/js/manifest.36dcf09bf7e2f55ebd8a.js",
+    "revision": "a7ea42aab575b15d3b4786e513b8d055"
   },
   {
-    'url': '/pwatest/static/js/vendor.482c14416185ffb0ddad.js',
-    'revision': '8b8eab7526c26db9e7b483dc88d1981b'
+    "url": "/static/js/vendor.482c14416185ffb0ddad.js",
+    "revision": "8b8eab7526c26db9e7b483dc88d1981b"
   },
   {
-    'url': '/pwatest/static/sw.js',
-    'revision': '9e998f9219629327653043064eec6c4c'
+    "url": "/static/sw.js",
+    "revision": "e9a53bbb3db1c2956bc5c0a16f819858"
   },
   {
-    'url': '/pwatest/static/workbox-sw.prod.v1.0.0.js',
-    'revision': '9029a00430d1c6ccf363f3ad77c45d42'
+    "url": "/static/workbox-sw.prod.v1.0.0.js",
+    "revision": "9029a00430d1c6ccf363f3ad77c45d42"
   },
   {
-    'url': '/pwatest/sw.js',
-    'revision': '40182a9495b3efbf202981e3b38f829c'
+    "url": "/sw.js",
+    "revision": "77d85d15e55b4899aa9338987f369e6d"
   },
   {
-    'url': '/pwatest/workbox-sw.prod.v1.0.0.js',
-    'revision': '9029a00430d1c6ccf363f3ad77c45d42'
+    "url": "/workbox-sw.prod.v1.0.0.js",
+    "revision": "9029a00430d1c6ccf363f3ad77c45d42"
   }
 ];
 

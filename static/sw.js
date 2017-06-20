@@ -24,39 +24,31 @@ const fileManifest = [
   },
   {
     "url": "/index.html",
-    "revision": "8980db243c3f2f18206fde652c3c191a"
+    "revision": "28adcdf1e12ba7259f414e60b183c2e7"
   },
   {
     "url": "/js/index.js",
     "revision": "b144c071205225b243caacc5b550f592"
   },
   {
-    "url": "/static/js/app.8eb574b1eddf08e17459.js",
-    "revision": "c2cc10846649d9fb9cf1955cd714715f"
+    "url": "/static/js/app.5adf1d171507b31405d2.js",
+    "revision": "07a13ed240d5bfa2e1450346b48aa896"
   },
   {
-    "url": "/static/js/manifest.43a623dcad11e8732823.js",
-    "revision": "4557c52e01ff5777428213ad05a896c5"
+    "url": "/static/js/manifest.ffb0cef8d7ed3584ee06.js",
+    "revision": "5a33d300fd8b7d3a7a2c397ed860824c"
   },
   {
-    "url": "/static/js/vendor.e6e92bc5030d29f8438a.js",
-    "revision": "b9b695b4f0b7226e5efa089862f600eb"
+    "url": "/static/js/vendor.482c14416185ffb0ddad.js",
+    "revision": "8b8eab7526c26db9e7b483dc88d1981b"
   },
   {
     "url": "/sw.js",
-    "revision": "40182a9495b3efbf202981e3b38f829c"
-  },
-  {
-    "url": "/sw2.js",
-    "revision": "12f3a8464567fabb539560286669c2b1"
+    "revision": "77d85d15e55b4899aa9338987f369e6d"
   },
   {
     "url": "/workbox-sw.prod.v1.0.0.js",
-    "revision": "28195f85f4d33e62ee02f2b82aac9854"
-  },
-  {
-    "url": "/workbox-sw.prod.v2.0.0.js",
-    "revision": "f94666127c0b36081f4c621a25d196ab"
+    "revision": "9029a00430d1c6ccf363f3ad77c45d42"
   }
 ];
 
